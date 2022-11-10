@@ -5,5 +5,5 @@
 -  
 - 🌱 I’m currently learning AWS cloud and working toward getting my AWS Solutions Architecture cert.
 - 
-- 📫 You can reach me via Linkd in https://www.linkedin.com/in/stanley-glover-627266191 or at sglover29@liberty.edu 
+- 📫 You can reach me via Linkd in (https://www.linkedin.com/in/stan-g-745049256) or at sglover29@liberty.edu 
 
